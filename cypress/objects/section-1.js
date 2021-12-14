@@ -4,6 +4,9 @@ const Section1 = {
    */
   literals: {
     SAMPLE_LITERAL: 'This is a sample literal. You can safely delete it.',
+    baseUrl :'http://localhost:8080',
+    rowLength :11,
+    role : 'user'
   },
 
   /**
